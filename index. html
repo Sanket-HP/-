@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Gram Panchayat Website</title>
+</head>
+
+<body>
+  <header>
+    <h1>ग्रामपंचायत पाल</h1>
+    <p>Welcome to our community</p>
+  </header>
+
+  <nav>
+    <ul>
+      <li><a href="#home">Home</a></li>
+      <li><a href="#about">About Us</a></li>
+      <li><a href="#services">Services</a></li>
+      <li><a href="#representatives">Local Representatives</a></li>
+      <li><a href="#projects">Projects</a></li>
+      <li><a href="#community">Community</a></li>
+      <li><a href="#contact">Contact Us</a></li>
+    </ul>
+  </nav>
+
+<section id="image">
+    <img src="gram_panchayat_photo.jpg" alt="Gram Panchayat Photo">
+  </section>
+
+  <footer>
+    <p>&copy; 2023 Gram Panchayat. All rights reserved.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+
+</html>
